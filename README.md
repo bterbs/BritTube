@@ -1,4 +1,4 @@
-### VideoPlayer app with React
+## VideoPlayer app with React
 ```
 > Project I made following StephenGrider's Modern React with Redux course on Udemy.
 > follow the instructions in 'getting started'
